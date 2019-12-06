@@ -15,4 +15,4 @@ The connection timeout dialog does have proper dark mode styling.
 - Press the "Connect to hotspot" button
 - The dialog that then appears is not styled correctly
 
-![screenshot of faulty system dialog](https://github.com/jpelgrim/AOSPIssue145770600/blob/master/faulty-system-dialog.png.png "Faulty system dialog")
+![screenshot of faulty system dialog](https://github.com/jpelgrim/AOSPIssue145770600/blob/master/faulty-system-dialog.png "Faulty system dialog")
