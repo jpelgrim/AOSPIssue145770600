@@ -10,7 +10,7 @@ The connection timeout dialog does have proper dark mode styling.
 # Steps to reproduce
 - Have some device you can boot in hotspot mode (I.e. a Chromecast or what have you)
 - Turn on dark mode on your device
-- Start this app
+- Start this app (NOTE: This app only runs on Android 10!)
 - Fill in your hotspot's SSID (verbatim, case sensitive) in the form field
 - Press the "Connect to hotspot" button
 - The dialog that then appears is not styled correctly
